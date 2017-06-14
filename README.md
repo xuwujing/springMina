@@ -2,6 +2,7 @@
 Spring整合Mina，实现消息推送以及消息转发。
 
 原文博客地址:http://blog.csdn.net/qazwsxpcm/article/details/73255909
+
 mina特点:
 -------
 
